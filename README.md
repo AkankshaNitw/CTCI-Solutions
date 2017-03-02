@@ -1,2 +1,2 @@
-# CTCI-Solutions-in-C-
-Solutions to Cracking the Coding Interview in C++
+# CTCI-Solutions
+Solutions to Cracking the Coding Interview queations in C++
